@@ -1,0 +1,22 @@
+{
+    "name": "rich/module-productquantities",
+    "description": "A module used to display product quantities.",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Rich Humphreys",
+            "email": "r.humphreys231@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Rich\\ProductQuantities\\": ""
+        }
+    }
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<config>
+	<preference for="Magento\ConfigurableProduct\Model\ConfigurableAttributeData" type="Rich\ProductQuantities\Model\ConfigurableAttributeData" />
+</config>
